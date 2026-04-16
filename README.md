@@ -4,7 +4,7 @@
 
 Um aplicativo de linha de comando (CLI) simples e funcional para gerenciar tarefas diárias, criado para praticar manipulação de arrays, objetos e lógica assíncrona em JavaScript.
 
-##  Funcionalidades
+## Funcionalidades
 
 * **Adicionar Lembretes:** Criação dinâmica de tarefas com nome e data.
 * **Listagem Completa:** Exibição numerada de todos os itens salvos.
