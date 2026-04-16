@@ -12,12 +12,12 @@ Funcionalidades
 * **Controle de Status:** Opção para marcar tarefas como "Concluídas".
 * **Interface Assíncrona:** Uso de `Promises` e `Async/Await` para uma melhor experiência no terminal.
 
-## 🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 * **JavaScript (ES6+)**
 * **Node.js** (Módulo nativo `readline`)
 
-## 📋 Como rodar o projeto
+Como rodar o projeto
 
 1. **Certifique-se de ter o Node.js instalado.**
 2. **Clone o repositório:**
@@ -33,7 +33,7 @@ Funcionalidades
    node seu-arquivo.js
    ```
 
-## 🧠 O que aprendi neste projeto
+O que aprendi neste projeto
 
 * Transformação de funções com callback para **Promises**.
 * Manipulação de arrays de objetos (`push`, `forEach`, e acesso por índice).
@@ -41,4 +41,4 @@ Funcionalidades
 * Lógica de navegação entre menus recursivos.
 
 ---
-💡 *Este projeto foi desenvolvido para fins de estudo de fundamentos do JavaScript.*
+*Este projeto foi desenvolvido para fins de estudo de fundamentos do JavaScript.*
